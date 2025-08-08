@@ -15,7 +15,7 @@ const ResearchProposal: React.FC = () => {
           </h2>
           <div className="text-gray-600">
             <p>Department of Industrial Engineering</p>
-            <p>Submitted by: [Your Name]</p>
+            <p>Submitted by: Abraham Adjei</p>
             <p>Date: {new Date().toLocaleDateString()}</p>
           </div>
         </div>
